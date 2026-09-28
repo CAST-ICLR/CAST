@@ -1,0 +1,745 @@
+[
+  {
+    "dataset": "test_speakervid",
+    "idx": 707,
+    "shot_id": "eXasuS7Zm3A::6",
+    "qa_type": 3,
+    "num_speakers": 2,
+    "is_multi_speaker": true,
+    "original_video_url": "/multispeaker_results/000060/eXasuS7Zm3A/4_validate_output/stage4_kept_videos/p2_s2_shot_0006.mp4",
+    "video": "videos/test_speakervid/01_p2_s2_shot_0006.mp4",
+    "messages": [
+      {
+        "role": "user",
+        "content": [
+          {
+            "type": "video_url",
+            "video_url": "/multispeaker_results/000060/eXasuS7Zm3A/4_validate_output/stage4_kept_videos/p2_s2_shot_0006.mp4"
+          },
+          {
+            "type": "text",
+            "text": "那个戴眼镜的短发女士问 wild animals 的时候，语气里是不是带着点惊讶？"
+          }
+        ]
+      },
+      {
+        "role": "assistant",
+        "content": [
+          {
+            "type": "text",
+            "text": "新修正的COT确认，戴眼镜的短发女士（char2）问了“What does he think about the wild animals?”。不过COT记录的是台词和人物描述，无法判断她的语气是否带着惊讶；需要结合原视频音频确认语气。"
+          }
+        ]
+      }
+    ],
+    "cot": {
+      "speakers": [
+        {
+          "id": "1",
+          "description": "位于画面左侧，成年男性，深色中长发，穿着黑色上衣和黑色裤子，脚穿黑色靴子，左臂有纹身，姿态放松地坐在米色单人沙发上，右腿搭在左腿上，手部有轻微动作，表情自然，正在与对面人物交谈。周围是节日装饰，包括圣诞树、礼物盒和花环，背景大屏幕显示海边悬崖的风景照。",
+          "segments": [
+            {
+              "start": 0.72,
+              "end": 2.8,
+              "text": "She got to see the wild animals that live outside."
+            },
+            {
+              "start": 3.36,
+              "end": 3.6,
+              "text": "you know."
+            },
+            {
+              "start": 5.12,
+              "end": 5.44,
+              "text": "I I tell him."
+            }
+          ]
+        },
+        {
+          "id": "2",
+          "description": "位于画面右侧，成年女性，短发，戴眼镜，穿着白色上衣和灰橙色格纹长裤，坐在米色单人沙发上，身体微微前倾，面带微笑，手部有轻微动作，表情专注且愉悦。周围环绕着圣诞树、礼物盒和节日装饰，背景大屏幕显示海边悬崖的风景照。",
+          "segments": [
+            {
+              "start": 3.61,
+              "end": 5.1,
+              "text": "What does he think about the wild animals?"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "dataset": "test_speakervid",
+    "idx": 505,
+    "shot_id": "o1efx3FGxC0::12",
+    "qa_type": 2,
+    "num_speakers": 3,
+    "is_multi_speaker": true,
+    "original_video_url": "/multispeaker_results/000043/o1efx3FGxC0/4_validate_output/stage4_kept_videos/p3_s1_shot_0012.mp4",
+    "video": "videos/test_speakervid/02_p3_s1_shot_0012.mp4",
+    "messages": [
+      {
+        "role": "user",
+        "content": [
+          {
+            "type": "video_url",
+            "video_url": "/multispeaker_results/000043/o1efx3FGxC0/4_validate_output/stage4_kept_videos/p3_s1_shot_0012.mp4"
+          },
+          {
+            "type": "text",
+            "text": "我就想问下，穿粉色裙子的那个金发小姐姐说的'Mindy Project'到底是啥？"
+          }
+        ]
+      },
+      {
+        "role": "assistant",
+        "content": [
+          {
+            "type": "text",
+            "text": "她提到的是《The Mindy Project》这部剧，新COT确认这句由画面最左侧穿粉色裙子的金发女士说出。COT只记录了剧名，没有说明它是否很火或对她影响很大。"
+          }
+        ]
+      }
+    ],
+    "cot": {
+      "speakers": [
+        {
+          "id": "1",
+          "description": "位于画面最右侧，一位成年女性，深色短发，身穿黑色带金色装饰的外套，搭配黑色长裙和黑色高跟鞋，坐在浅灰色扶手椅上，手持麦克风，姿态优雅，面带微笑，时而注视前方，时而侧头交流，背景为带有'92NY'字样的深色幕布。",
+          "segments": [
+            {
+              "start": 0.72,
+              "end": 1.12,
+              "text": "Right?"
+            },
+            {
+              "start": 1.12,
+              "end": 1.92,
+              "text": "Good question."
+            }
+          ]
+        },
+        {
+          "id": "2",
+          "description": "位于画面中间，一位成年女性，深色长发，身穿黑色条纹西装套装，内搭浅色上衣，坐在浅灰色扶手椅上，手持麦克风，姿态端庄，表情专注，时而低头，时而侧头倾听，背景为带有'92NY'字样的深色幕布。",
+          "segments": [
+            {
+              "start": 2.96,
+              "end": 3.76,
+              "text": "Oh my gosh."
+            },
+            {
+              "start": 3.84,
+              "end": 4.64,
+              "text": "Um."
+            }
+          ]
+        },
+        {
+          "id": "3",
+          "description": "位于画面最左侧，一位成年女性，金色长发，身穿浅粉色吊带连衣裙，搭配白色过膝长靴，坐在浅灰色扶手椅上，手持麦克风，姿态放松，表情生动，时而张嘴说话，时而侧头交流，背景为带有'92NY'字样的深色幕布。",
+          "segments": [
+            {
+              "start": 5.52,
+              "end": 6.08,
+              "text": "I'll go for."
+            },
+            {
+              "start": 6.08,
+              "end": 8.8,
+              "text": "I mean, for me, it's the Mindy Project because it just, like."
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "dataset": "test_speakervid",
+    "idx": 599,
+    "shot_id": "VsI_dJk3je4::173",
+    "qa_type": 3,
+    "num_speakers": 2,
+    "is_multi_speaker": true,
+    "original_video_url": "/multispeaker_results/000050/VsI_dJk3je4/2_vision_output/stage2_kept_videos/p3_shot_0173.mp4",
+    "video": "videos/test_speakervid/03_p3_shot_0173.mp4",
+    "messages": [
+      {
+        "role": "user",
+        "content": [
+          {
+            "type": "video_url",
+            "video_url": "/multispeaker_results/000050/VsI_dJk3je4/2_vision_output/stage2_kept_videos/p3_shot_0173.mp4"
+          },
+          {
+            "type": "text",
+            "text": "我就纳了闷了，她为啥突然拿驴说事儿啊？这也太抽象了，是不是刚才聊到农场或者动物了？"
+          }
+        ]
+      },
+      {
+        "role": "assistant",
+        "content": [
+          {
+            "type": "text",
+            "text": "新COT显示，左侧红棕色卷发的女士一开始就在说“My donkeys give me no respect whatsoever”，接着说“Look at that”和“Terrible.”。这段记录没有显示此前是否聊过农场或动物，所以无法确认她为什么突然提到驴；可以确定的是她在吐槽自家的驴不尊重她。"
+          }
+        ]
+      }
+    ],
+    "cot": {
+      "speakers": [
+        {
+          "id": "1",
+          "description": "位于画面左侧，中年女性，红棕色卷发，身穿带有几何图案的深色套装，坐在白色沙发上，姿态放松，表情专注，时而指向屏幕，时而微笑，与右侧人物互动。背景为电视演播室，有大屏幕和窗外城市景观。",
+          "segments": [
+            {
+              "start": 0.4,
+              "end": 3.04,
+              "text": "My donkeys give me no respect whatsoever."
+            },
+            {
+              "start": 3.04,
+              "end": 3.76,
+              "text": "Look at that."
+            },
+            {
+              "start": 4.08,
+              "end": 4.48,
+              "text": "Terrible."
+            }
+          ]
+        },
+        {
+          "id": "2",
+          "description": "位于画面右侧，中年女性，黑色短发，身穿亮黄色套装，坐在白色沙发上，姿态轻松，面带笑容，时而大笑，时而与左侧人物交谈，表情生动。背景为电视演播室，有大屏幕和窗外城市景观。",
+          "segments": [
+            {
+              "start": 4.48,
+              "end": 8.08,
+              "text": "What do you think when you hear your trending?"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "dataset": "test_speakervid",
+    "idx": 1392,
+    "shot_id": "X9DhG70uRI4::14",
+    "qa_type": 6,
+    "num_speakers": 2,
+    "is_multi_speaker": true,
+    "original_video_url": "/multispeaker_results/000006/X9DhG70uRI4/2_vision_output/stage2_kept_videos/p6_shot_0014.mp4",
+    "video": "videos/test_speakervid/04_p6_shot_0014.mp4",
+    "messages": [
+      {
+        "role": "user",
+        "content": [
+          {
+            "type": "video_url",
+            "video_url": "/multispeaker_results/000006/X9DhG70uRI4/2_vision_output/stage2_kept_videos/p6_shot_0014.mp4"
+          },
+          {
+            "type": "text",
+            "text": "等等，右边那位女士说‘That's so sweet’的时候，是不是在回应左边男士的第一句话？她这个反应是不是有点太淡定了？"
+          }
+        ]
+      },
+      {
+        "role": "assistant",
+        "content": [
+          {
+            "type": "text",
+            "text": "按修正后的COT，“That's so sweet”标记为char1（左侧男士）说的，不是右边女士。右边女士（char2）在前面说的是“Yeah.”，所以之前把“That’s so sweet”归给她是不准确的。COT本身也不足以判断她的反应是否太淡定。"
+          }
+        ]
+      }
+    ],
+    "cot": {
+      "speakers": [
+        {
+          "id": "1",
+          "description": "位于画面左侧的白色沙发上，成年男性，短发，留有胡须，穿着黑色短袖上衣和卡其色裤子，身体微微前倾，右手搭在沙发扶手上，左手自然放置，表情专注，正在与对面的人交谈。",
+          "segments": [
+            {
+              "start": 0.32,
+              "end": 0.88,
+              "text": "I proposed."
+            },
+            {
+              "start": 1.52,
+              "end": 1.76,
+              "text": "Yeah."
+            },
+            {
+              "start": 3.14,
+              "end": 3.7,
+              "text": "I proposed."
+            },
+            {
+              "start": 3.94,
+              "end": 6.5,
+              "text": "I I was um really nervous."
+            },
+            {
+              "start": 6.5,
+              "end": 14.58,
+              "text": "Uh but I got on my knees and I and I took out the little, not a box, I just had them in a."
+            }
+          ]
+        },
+        {
+          "id": "2",
+          "description": "位于画面右侧的白色沙发上，成年女性，短发，穿着深色格纹西装外套和黑色内搭，坐姿端正，双手放在膝盖或扶手上，面带微笑，正侧头看向左侧的男性。",
+          "segments": [
+            {
+              "start": 0.88,
+              "end": 1.52,
+              "text": "Yeah."
+            },
+            {
+              "start": 2.04,
+              "end": 4.52,
+              "text": "That's so sweet."
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "dataset": "test_speakervid",
+    "idx": 1609,
+    "shot_id": "nkTVqLTbMvk::47",
+    "qa_type": 3,
+    "num_speakers": 3,
+    "is_multi_speaker": true,
+    "original_video_url": "/multispeaker_results/000011/nkTVqLTbMvk/2_vision_output/stage2_kept_videos/p7_shot_0047.mp4",
+    "video": "videos/test_speakervid/05_p7_shot_0047.mp4",
+    "messages": [
+      {
+        "role": "user",
+        "content": [
+          {
+            "type": "video_url",
+            "video_url": "/multispeaker_results/000011/nkTVqLTbMvk/2_vision_output/stage2_kept_videos/p7_shot_0047.mp4"
+          },
+          {
+            "type": "text",
+            "text": "哎，那个穿浅色衬衫的嘉宾刚才是不是说他在跟奥巴马开会？这听起来也太夸张了吧，真的假的？"
+          }
+        ]
+      },
+      {
+        "role": "assistant",
+        "content": [
+          {
+            "type": "text",
+            "text": "新COT确实记录到对话提及Obama，随后出现“we got to have a private, uh, meeting in the...”这句话；浅蓝衬衫男士（char2）接着说到“meeting”。但这句话在片段里没有说完，COT不能证明这是否指他和Obama开会。之前断言“其实不是开会”以及描述背景屏幕内容，都没有这份COT依据。"
+          }
+        ]
+      }
+    ],
+    "cot": {
+      "speakers": [
+        {
+          "id": "1",
+          "description": "位于画面右侧，成年女性，短发，穿黑色上衣搭配白色领子，坐在白色单人沙发上，身体前倾，右手抬起做手势，面带微笑，表情生动。",
+          "segments": [
+            {
+              "start": 0.0,
+              "end": 4.32,
+              "text": "Arnold and end with Obama like that."
+            },
+            {
+              "start": 3.93,
+              "end": 5.37,
+              "text": "And then Obama."
+            }
+          ]
+        },
+        {
+          "id": "2",
+          "description": "位于画面中间偏左，成年男性，短发，穿浅蓝色长袖衬衫，坐在白色沙发上，身体微微前倾，面带微笑，姿态放松。",
+          "segments": [
+            {
+              "start": 1.77,
+              "end": 1.93,
+              "text": "Yeah."
+            },
+            {
+              "start": 2.09,
+              "end": 2.73,
+              "text": "yeah, pretty much."
+            },
+            {
+              "start": 7.02,
+              "end": 14.46,
+              "text": "we got to have a private, uh, meeting in the."
+            }
+          ]
+        },
+        {
+          "id": "3",
+          "description": "位于画面左侧，成年男性，短发，穿灰色外套内搭白色T恤，坐在白色沙发上，身体略微侧向中间，面带微笑，姿态放松。",
+          "segments": [
+            {
+              "start": 5.58,
+              "end": 5.9,
+              "text": "No"
+            },
+            {
+              "start": 5.9,
+              "end": 7.02,
+              "text": "No, no particular order "
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "dataset": "test_wulan_multi",
+    "idx": 503,
+    "shot_id": "Death.at.A.Funeral.2010.Blu-ray.1080p.x265.10bit.DTS-HD.MA.5.1-HDH::1178",
+    "qa_type": 1,
+    "num_speakers": 3,
+    "is_multi_speaker": true,
+    "original_video_url": "video/Death.at.A.Funeral.2010.Blu-ray.1080p.x265.10bit.DTS-HD.MA.5.1-HDH/p4_shot_1178_char9_char4_char3_char14.mp4",
+    "video": "videos/test_wulan_multi/06_p4_shot_1178_char9_char4_char3_char14.mp4",
+    "messages": [
+      {
+        "role": "user",
+        "content": [
+          {
+            "type": "video_url",
+            "video_url": "video/Death.at.A.Funeral.2010.Blu-ray.1080p.x265.10bit.DTS-HD.MA.5.1-HDH/p4_shot_1178_char9_char4_char3_char14.mp4"
+          },
+          {
+            "type": "text",
+            "text": "那个穿白衬衫打深色领带、站在最左边的中年男的是不是说了句关于“勒索”的话？"
+          }
+        ]
+      },
+      {
+        "role": "assistant",
+        "content": [
+          {
+            "type": "text",
+            "text": "按当前编号，关于“blackmail”的台词由char1（画面右侧穿黑西装、白衬衫的男士）说出；最左边穿白衬衫和深色领带的char3在片段末尾说“Yeah well what are we gonna do with him.”。"
+          }
+        ]
+      }
+    ],
+    "cot": {
+      "speakers": [
+        {
+          "id": "1",
+          "description": "位于画面右侧，身穿黑色西装和白衬衫，中年男性，面对镜头，在对话开始开口提问，询问如何处理某人",
+          "segments": [
+            {
+              "start": 0.19,
+              "end": 2.87,
+              "text": "If I could tell you it wouldn't be blackmail now would it."
+            }
+          ]
+        },
+        {
+          "id": "2",
+          "description": "位于画面左二位置，身穿黑色西装并佩戴眼镜，中年男性，表情急切，正在积极解释情况，双手配合语言做出手势，试图说服其他人",
+          "segments": [
+            {
+              "start": 3.33,
+              "end": 7.67,
+              "text": "And look just trust us he's the bad guy okay we'll explain it to you later."
+            }
+          ]
+        },
+        {
+          "id": "3",
+          "description": "位于画面最左侧，身穿白色衬衫搭配深色领带，中年男性，短发，神情严肃且略带困惑，身体微侧向右，与另外三人进行对话交流",
+          "segments": [
+            {
+              "start": 8.04,
+              "end": 9.26,
+              "text": "Yeah well what are we gonna do with him."
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "dataset": "test_wulan_multi",
+    "idx": 1013,
+    "shot_id": "Failure.To.Launch.2006.BluRay.1080p.DTS-HD.MA5.1.x265.10bit-BeiTai::757",
+    "qa_type": 6,
+    "num_speakers": 2,
+    "is_multi_speaker": true,
+    "original_video_url": "video/Failure.To.Launch.2006.BluRay.1080p.DTS-HD.MA5.1.x265.10bit-BeiTai/p3_shot_0757_char1_char5_char4.mp4",
+    "video": "videos/test_wulan_multi/07_p3_shot_0757_char1_char5_char4.mp4",
+    "messages": [
+      {
+        "role": "user",
+        "content": [
+          {
+            "type": "video_url",
+            "video_url": "video/Failure.To.Launch.2006.BluRay.1080p.DTS-HD.MA5.1.x265.10bit-BeiTai/p3_shot_0757_char1_char5_char4.mp4"
+          },
+          {
+            "type": "text",
+            "text": "右边穿泼墨夹克的男生最后那句话，是在回应大家还是各说各的？"
+          }
+        ]
+      },
+      {
+        "role": "assistant",
+        "content": [
+          {
+            "type": "text",
+            "text": "他是在回应。前面两个人都在夸那个女生，他最后说“She's really great...”，明显是加入讨论，表示赞同大家的看法。"
+          }
+        ]
+      }
+    ],
+    "cot": {
+      "speakers": [
+        {
+          "id": "1",
+          "description": "位于画面中间位置，中年男性，短发带胡茬，穿白色印花T恤，肩搭蓝色毛巾，站在同伴之间，面带笑容",
+          "segments": [
+            {
+              "start": 0.83,
+              "end": 2.52,
+              "text": "She's fast, she's got good spatial awareness."
+            },
+            {
+              "start": 2.91,
+              "end": 4.58,
+              "text": "And great hair."
+            },
+            {
+              "start": 4.89,
+              "end": 6.35,
+              "text": "She's a keeper, man."
+            }
+          ]
+        },
+        {
+          "id": "2",
+          "description": "位于画面右侧，年轻男性，深色头发，穿黑色泼墨夹克内搭白T恤，双手叉腰，表情轻松愉快",
+          "segments": [
+            {
+              "start": 6.65,
+              "end": 7.81,
+              "text": "She's really great, really great trip."
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "dataset": "test_wulan_multi",
+    "idx": 1010,
+    "shot_id": "Kindaichi.Shonen.no.Jikenbo.Shanghai.ningyo.densetsu.1997.1080p.BluRay.DD2.0.x264-HDH::234",
+    "qa_type": 9,
+    "num_speakers": 1,
+    "is_multi_speaker": false,
+    "original_video_url": "video/Kindaichi.Shonen.no.Jikenbo.Shanghai.ningyo.densetsu.1997.1080p.BluRay.DD2.0.x264-HDH/p4_shot_0234_char27_char1_char16_char37.mp4",
+    "video": "videos/test_wulan_multi/08_p4_shot_0234_char27_char1_char16_char37.mp4",
+    "messages": [
+      {
+        "role": "user",
+        "content": [
+          {
+            "type": "video_url",
+            "video_url": "video/Kindaichi.Shonen.no.Jikenbo.Shanghai.ningyo.densetsu.1997.1080p.BluRay.DD2.0.x264-HDH/p4_shot_0234_char27_char1_char16_char37.mp4"
+          },
+          {
+            "type": "text",
+            "text": "说话的人是不是画面最左边穿红色旗袍的那位女生？"
+          }
+        ]
+      },
+      {
+        "role": "assistant",
+        "content": [
+          {
+            "type": "text",
+            "text": "不是，说话的是画面右侧那位深色卷发的中年男性，穿旗袍的女生全程没有发声。"
+          }
+        ]
+      }
+    ],
+    "cot": {
+      "speakers": [
+        {
+          "id": "1",
+          "description": "位于画面右侧特写，深色卷发男性面部占据右半部分，中年男性，神情严肃凝重，眼神低垂，处于昏暗的室内环境，光线集中在面部左侧",
+          "segments": [
+            {
+              "start": 0.73,
+              "end": 3.59,
+              "text": "上海の街って、なんか素敵ですよね。"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "dataset": "test_wulan_multi",
+    "idx": 417,
+    "shot_id": "A.Passage.to.India.1984.BluRay.1080p.x265.10bit.TrueHD5.1-HDH::741",
+    "qa_type": 1,
+    "num_speakers": 3,
+    "is_multi_speaker": true,
+    "original_video_url": "video/A.Passage.to.India.1984.BluRay.1080p.x265.10bit.TrueHD5.1-HDH/p2_shot_0741_char2_char8.mp4",
+    "video": "videos/test_wulan_multi/09_p2_shot_0741_char2_char8.mp4",
+    "messages": [
+      {
+        "role": "user",
+        "content": [
+          {
+            "type": "video_url",
+            "video_url": "video/A.Passage.to.India.1984.BluRay.1080p.x265.10bit.TrueHD5.1-HDH/p2_shot_0741_char2_char8.mp4"
+          },
+          {
+            "type": "text",
+            "text": "开头那句“我很高兴你在这儿”是谁说的呀？"
+          }
+        ]
+      },
+      {
+        "role": "assistant",
+        "content": [
+          {
+            "type": "text",
+            "text": "是画面左侧那位戴白色遮阳帽、穿浅色条纹外套的年长女性说的。"
+          }
+        ]
+      }
+    ],
+    "cot": {
+      "speakers": [
+        {
+          "id": "1",
+          "description": "位于画面左侧，面向右侧的男士，年长女性，神情略显担忧，戴白色遮阳帽，穿浅色条纹外套和蓝色内搭，双手交握在胸前，背景是岩石峭壁和零散坐着的人群",
+          "segments": [
+            {
+              "start": 0.68,
+              "end": 2.02,
+              "text": "I'm so glad you're here."
+            },
+            {
+              "start": 6.66,
+              "end": 12.15,
+              "text": "Not exactly, but they went off with the guide an hour ago, more in fact, and somehow..."
+            }
+          ]
+        },
+        {
+          "id": "2",
+          "description": "位于画面右侧，面向左侧的女士，中年男性，表情关切，穿米色衬衫，肩上搭着一件棕色外套，左手戴着手表，站在干燥的岩石地面上，身后是岩壁",
+          "segments": [
+            {
+              "start": 3.16,
+              "end": 4.48,
+              "text": "Oh, I was coming over to you."
+            },
+            {
+              "start": 5.15,
+              "end": 5.5,
+              "text": "Nothing wrong?"
+            },
+            {
+              "start": 14.34,
+              "end": 16.47,
+              "text": "I don't know this place, but I'm sure they'll be back soon."
+            },
+            {
+              "start": 16.81,
+              "end": 17.61,
+              "text": "Not to worry."
+            }
+          ]
+        },
+        {
+          "id": "3",
+          "description": "画外音，外貌未知",
+          "segments": [
+            {
+              "start": 17.64,
+              "end": 18.15,
+              "text": "Feeling!"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "dataset": "test_wulan_multi",
+    "idx": 1379,
+    "shot_id": "Emma..2020.1080p.BluRay.DD+5.1.x264-VietHD::192",
+    "qa_type": 2,
+    "num_speakers": 2,
+    "is_multi_speaker": true,
+    "original_video_url": "video/Emma..2020.1080p.BluRay.DD+5.1.x264-VietHD/p4_shot_0192_char2_char15_char1_char9.mp4",
+    "video": "videos/test_wulan_multi/10_p4_shot_0192_char2_char15_char1_char9.mp4",
+    "messages": [
+      {
+        "role": "user",
+        "content": [
+          {
+            "type": "video_url",
+            "video_url": "video/Emma..2020.1080p.BluRay.DD+5.1.x264-VietHD/p4_shot_0192_char2_char15_char1_char9.mp4"
+          },
+          {
+            "type": "text",
+            "text": "穿红格子外套的女生具体说了句什么？"
+          }
+        ]
+      },
+      {
+        "role": "assistant",
+        "content": [
+          {
+            "type": "text",
+            "text": "她说的是：“There is such symmetry between us.”"
+          }
+        ]
+      }
+    ],
+    "cot": {
+      "speakers": [
+        {
+          "id": "1",
+          "description": "画外音，外貌未知",
+          "segments": [
+            {
+              "start": 0.0,
+              "end": 0.31,
+              "text": "it."
+            }
+          ]
+        },
+        {
+          "id": "2",
+          "description": "最初站在画面中央偏左的位置。，年轻女性，面容清秀，表情略带思索。，身穿红色格子外套，头戴饰有粉色羽毛的黑色帽子。，身处一间光线柔和的古典房间内，随后转身离开。",
+          "segments": [
+            {
+              "start": 1.36,
+              "end": 3.66,
+              "text": "There is such symmetry between us."
+            }
+          ]
+        }
+      ]
+    }
+  }
+]
