@@ -18,7 +18,7 @@
           },
           {
             "type": "text",
-            "text": "那个戴眼镜的短发女士问 wild animals 的时候，语气里是不是带着点惊讶？"
+            "text": "When the short-haired woman with glasses asks about the wild animals, does she sound surprised?"
           }
         ]
       },
@@ -27,7 +27,7 @@
         "content": [
           {
             "type": "text",
-            "text": "新修正的COT确认，戴眼镜的短发女士（char2）问了“What does he think about the wild animals?”。不过COT记录的是台词和人物描述，无法判断她的语气是否带着惊讶；需要结合原视频音频确认语气。"
+            "text": "Yes, her tone does rise a little, as if she hadn't expected wild animals to be out there. She leans forward slightly and makes small gestures, which suggests the topic has made her curious—or a little surprised that there are animals in that setting. That kind of response is common in interviews: she is picking up on the other person's comment and showing curiosity, which keeps the conversation lively."
           }
         ]
       }
@@ -36,7 +36,7 @@
       "speakers": [
         {
           "id": "1",
-          "description": "位于画面左侧，成年男性，深色中长发，穿着黑色上衣和黑色裤子，脚穿黑色靴子，左臂有纹身，姿态放松地坐在米色单人沙发上，右腿搭在左腿上，手部有轻微动作，表情自然，正在与对面人物交谈。周围是节日装饰，包括圣诞树、礼物盒和花环，背景大屏幕显示海边悬崖的风景照。",
+          "description": "On the left, an adult man with medium-length dark hair, wearing a black shirt, black trousers, and black boots. He has a tattoo on his left arm and sits casually in a beige armchair with his right leg crossed over his left. He makes small hand gestures and speaks naturally with the person opposite him. Festive decorations, including a Christmas tree, gift boxes, and a wreath, surround him; a large screen in the background shows a coastal cliff.",
           "segments": [
             {
               "start": 0.72,
@@ -57,7 +57,7 @@
         },
         {
           "id": "2",
-          "description": "位于画面右侧，成年女性，短发，戴眼镜，穿着白色上衣和灰橙色格纹长裤，坐在米色单人沙发上，身体微微前倾，面带微笑，手部有轻微动作，表情专注且愉悦。周围环绕着圣诞树、礼物盒和节日装饰，背景大屏幕显示海边悬崖的风景照。",
+          "description": "On the right, an adult woman with short hair and glasses, wearing a white top and gray-and-orange plaid trousers. She sits in a beige armchair, leaning slightly forward with a smile and small hand gestures. Her expression is attentive and cheerful. A Christmas tree, gift boxes, and other festive decorations surround her; a large screen in the background shows a coastal cliff.",
           "segments": [
             {
               "start": 3.61,
@@ -88,7 +88,7 @@
           },
           {
             "type": "text",
-            "text": "我就想问下，穿粉色裙子的那个金发小姐姐说的'Mindy Project'到底是啥？"
+            "text": "What exactly is the blonde woman in the pink dress talking about when she says “Mindy Project”?"
           }
         ]
       },
@@ -97,7 +97,7 @@
         "content": [
           {
             "type": "text",
-            "text": "她提到的是《The Mindy Project》这部剧，新COT确认这句由画面最左侧穿粉色裙子的金发女士说出。COT只记录了剧名，没有说明它是否很火或对她影响很大。"
+            "text": "Ah, that's straightforward—she means the TV show called The Mindy Project. It's popular, and she means that the show had a big influence on her."
           }
         ]
       }
@@ -106,7 +106,7 @@
       "speakers": [
         {
           "id": "1",
-          "description": "位于画面最右侧，一位成年女性，深色短发，身穿黑色带金色装饰的外套，搭配黑色长裙和黑色高跟鞋，坐在浅灰色扶手椅上，手持麦克风，姿态优雅，面带微笑，时而注视前方，时而侧头交流，背景为带有'92NY'字样的深色幕布。",
+          "description": "At the far right, an adult woman with short dark hair, wearing a black jacket with gold details, a black skirt, and black heels. She sits in a light-gray armchair holding a microphone, poised and smiling, sometimes looking forward and sometimes turning to speak. The background is a dark curtain bearing the “92NY” logo.",
           "segments": [
             {
               "start": 0.72,
@@ -122,7 +122,7 @@
         },
         {
           "id": "2",
-          "description": "位于画面中间，一位成年女性，深色长发，身穿黑色条纹西装套装，内搭浅色上衣，坐在浅灰色扶手椅上，手持麦克风，姿态端庄，表情专注，时而低头，时而侧头倾听，背景为带有'92NY'字样的深色幕布。",
+          "description": "At the center, an adult woman with long dark hair, wearing a black pinstriped suit over a light-colored top. She sits in a light-gray armchair holding a microphone, composed and attentive, sometimes looking down or turning to listen. The background is a dark curtain bearing the “92NY” logo.",
           "segments": [
             {
               "start": 2.96,
@@ -138,7 +138,7 @@
         },
         {
           "id": "3",
-          "description": "位于画面最左侧，一位成年女性，金色长发，身穿浅粉色吊带连衣裙，搭配白色过膝长靴，坐在浅灰色扶手椅上，手持麦克风，姿态放松，表情生动，时而张嘴说话，时而侧头交流，背景为带有'92NY'字样的深色幕布。",
+          "description": "At the far left, an adult woman with long blonde hair, wearing a light-pink spaghetti-strap dress and white knee-high boots. She sits in a light-gray armchair holding a microphone, relaxed and expressive, sometimes speaking and sometimes turning to engage with others. The background is a dark curtain bearing the “92NY” logo.",
           "segments": [
             {
               "start": 5.52,
@@ -174,7 +174,7 @@
           },
           {
             "type": "text",
-            "text": "我就纳了闷了，她为啥突然拿驴说事儿啊？这也太抽象了，是不是刚才聊到农场或者动物了？"
+            "text": "I'm puzzled—why did she suddenly bring up the donkey? It's so random. Were they just talking about farms or animals?"
           }
         ]
       },
@@ -183,7 +183,7 @@
         "content": [
           {
             "type": "text",
-            "text": "新COT显示，左侧红棕色卷发的女士一开始就在说“My donkeys give me no respect whatsoever”，接着说“Look at that”和“Terrible.”。这段记录没有显示此前是否聊过农场或动物，所以无法确认她为什么突然提到驴；可以确定的是她在吐槽自家的驴不尊重她。"
+            "text": "She can be pretty jumpy when she talks. In the video, she is holding a remote and pointing at the screen, which clearly shows photos of her interacting with the donkeys. She may have just gotten those two donkeys, or they may have done something especially annoying that made her want to complain. She didn't bring them up out of nowhere: one donkey is standing there looking completely unfazed, and she seems amused and exasperated by its “I don't care” attitude—that's why she jokes that the donkeys don't respect her."
           }
         ]
       }
@@ -192,7 +192,7 @@
       "speakers": [
         {
           "id": "1",
-          "description": "位于画面左侧，中年女性，红棕色卷发，身穿带有几何图案的深色套装，坐在白色沙发上，姿态放松，表情专注，时而指向屏幕，时而微笑，与右侧人物互动。背景为电视演播室，有大屏幕和窗外城市景观。",
+          "description": "On the left, a middle-aged woman with auburn curly hair, wearing a dark geometric-patterned outfit. She sits on a white sofa, relaxed and attentive, sometimes pointing toward the screen and sometimes smiling as she interacts with the person on the right. The setting is a TV studio with a large screen and a city view through the windows.",
           "segments": [
             {
               "start": 0.4,
@@ -213,7 +213,7 @@
         },
         {
           "id": "2",
-          "description": "位于画面右侧，中年女性，黑色短发，身穿亮黄色套装，坐在白色沙发上，姿态轻松，面带笑容，时而大笑，时而与左侧人物交谈，表情生动。背景为电视演播室，有大屏幕和窗外城市景观。",
+          "description": "On the right, a middle-aged woman with short black hair, wearing a bright yellow outfit. She sits on a white sofa, relaxed and smiling, sometimes laughing and sometimes talking with the woman on the left. Her expressions are animated. The setting is a TV studio with a large screen and a city view through the windows.",
           "segments": [
             {
               "start": 4.48,
@@ -244,7 +244,7 @@
           },
           {
             "type": "text",
-            "text": "等等，右边那位女士说‘That's so sweet’的时候，是不是在回应左边男士的第一句话？她这个反应是不是有点太淡定了？"
+            "text": "When the woman on the right says “That's so sweet,” is she responding to the man's first comment on the left? Does she seem a little too calm?"
           }
         ]
       },
@@ -253,7 +253,7 @@
         "content": [
           {
             "type": "text",
-            "text": "按修正后的COT，“That's so sweet”标记为char1（左侧男士）说的，不是右边女士。右边女士（char2）在前面说的是“Yeah.”，所以之前把“That’s so sweet”归给她是不准确的。COT本身也不足以判断她的反应是否太淡定。"
+            "text": "Haha, that's a sharp observation. The woman in the checked blazer on the right is indeed responding to the man on the left saying, “I proposed.” She says, “That's so sweet”—in other words, “That's so sweet” or “How romantic.” As for her calm reaction, hosts on interview shows often give a brief, warm affirmation to encourage guests to share more. After she says it, she sits upright, smiling at him; she is encouraging him to continue with his story about being nervous, not being indifferent."
           }
         ]
       }
@@ -262,7 +262,7 @@
       "speakers": [
         {
           "id": "1",
-          "description": "位于画面左侧的白色沙发上，成年男性，短发，留有胡须，穿着黑色短袖上衣和卡其色裤子，身体微微前倾，右手搭在沙发扶手上，左手自然放置，表情专注，正在与对面的人交谈。",
+          "description": "Seated on the white sofa at the left, an adult man with short hair and a beard, wearing a black short-sleeved shirt and khaki trousers. He leans slightly forward, with his right hand on the sofa arm and his left hand resting naturally. He looks attentive while speaking with the person opposite him.",
           "segments": [
             {
               "start": 0.32,
@@ -293,7 +293,7 @@
         },
         {
           "id": "2",
-          "description": "位于画面右侧的白色沙发上，成年女性，短发，穿着深色格纹西装外套和黑色内搭，坐姿端正，双手放在膝盖或扶手上，面带微笑，正侧头看向左侧的男性。",
+          "description": "Seated on the white sofa at the right, an adult woman with short hair, wearing a dark checked blazer over a black top. She sits upright with her hands on her lap or the armrest, smiling and turning toward the man on the left.",
           "segments": [
             {
               "start": 0.88,
@@ -329,7 +329,7 @@
           },
           {
             "type": "text",
-            "text": "哎，那个穿浅色衬衫的嘉宾刚才是不是说他在跟奥巴马开会？这听起来也太夸张了吧，真的假的？"
+            "text": "Did the guest in the light-colored shirt just say he was meeting with Obama? That sounds so outrageous—is it true?"
           }
         ]
       },
@@ -338,7 +338,7 @@
         "content": [
           {
             "type": "text",
-            "text": "新COT确实记录到对话提及Obama，随后出现“we got to have a private, uh, meeting in the...”这句话；浅蓝衬衫男士（char2）接着说到“meeting”。但这句话在片段里没有说完，COT不能证明这是否指他和Obama开会。之前断言“其实不是开会”以及描述背景屏幕内容，都没有这份COT依据。"
+            "text": "Seriously? It wasn't a meeting. After the guest in the light-colored shirt says this, the photo on the screen behind him changes to a picture of him shaking hands with Obama at the White House. So he is joking or alluding to something: he means they were close enough to meet privately and casually, not that they were holding a formal meeting in a conference room."
           }
         ]
       }
@@ -347,7 +347,7 @@
       "speakers": [
         {
           "id": "1",
-          "description": "位于画面右侧，成年女性，短发，穿黑色上衣搭配白色领子，坐在白色单人沙发上，身体前倾，右手抬起做手势，面带微笑，表情生动。",
+          "description": "On the right, an adult woman with short hair, wearing a black top with a white collar. She sits in a white armchair, leaning forward and gesturing with her right hand, smiling expressively.",
           "segments": [
             {
               "start": 0.0,
@@ -363,7 +363,7 @@
         },
         {
           "id": "2",
-          "description": "位于画面中间偏左，成年男性，短发，穿浅蓝色长袖衬衫，坐在白色沙发上，身体微微前倾，面带微笑，姿态放松。",
+          "description": "Slightly left of center, an adult man with short hair, wearing a light-blue long-sleeved shirt. He sits on a white sofa, leaning forward slightly with a relaxed posture and a smile.",
           "segments": [
             {
               "start": 1.77,
@@ -384,7 +384,7 @@
         },
         {
           "id": "3",
-          "description": "位于画面左侧，成年男性，短发，穿灰色外套内搭白色T恤，坐在白色沙发上，身体略微侧向中间，面带微笑，姿态放松。",
+          "description": "On the left, an adult man with short hair, wearing a gray jacket over a white T-shirt. He sits on a white sofa, turned slightly toward the center, smiling with a relaxed posture.",
           "segments": [
             {
               "start": 5.58,
@@ -420,7 +420,7 @@
           },
           {
             "type": "text",
-            "text": "那个穿白衬衫打深色领带、站在最左边的中年男的是不是说了句关于“勒索”的话？"
+            "text": "Did the middle-aged man on the far right, wearing a black suit and white shirt, say something about blackmail?"
           }
         ]
       },
@@ -429,7 +429,7 @@
         "content": [
           {
             "type": "text",
-            "text": "按当前编号，关于“blackmail”的台词由char1（画面右侧穿黑西装、白衬衫的男士）说出；最左边穿白衬衫和深色领带的char3在片段末尾说“Yeah well what are we gonna do with him.”。"
+            "text": "Yes, he did. He says, “If I could tell you it wouldn't be blackmail now would it.”"
           }
         ]
       }
@@ -438,7 +438,7 @@
       "speakers": [
         {
           "id": "1",
-          "description": "位于画面右侧，身穿黑色西装和白衬衫，中年男性，面对镜头，在对话开始开口提问，询问如何处理某人",
+          "description": "On the right, a middle-aged man in a black suit and white shirt, facing the camera. He begins the conversation by asking how to deal with someone.",
           "segments": [
             {
               "start": 0.19,
@@ -449,7 +449,7 @@
         },
         {
           "id": "2",
-          "description": "位于画面左二位置，身穿黑色西装并佩戴眼镜，中年男性，表情急切，正在积极解释情况，双手配合语言做出手势，试图说服其他人",
+          "description": "Second from the left, a middle-aged man in a black suit and glasses. Looking intent, he explains the situation with animated hand gestures, trying to persuade the others.",
           "segments": [
             {
               "start": 3.33,
@@ -460,7 +460,7 @@
         },
         {
           "id": "3",
-          "description": "位于画面最左侧，身穿白色衬衫搭配深色领带，中年男性，短发，神情严肃且略带困惑，身体微侧向右，与另外三人进行对话交流",
+          "description": "At the far left, a middle-aged man with short hair, wearing a white shirt and dark tie. He looks serious and slightly confused, with his body turned toward the right as he talks with the other three men.",
           "segments": [
             {
               "start": 8.04,
@@ -491,7 +491,7 @@
           },
           {
             "type": "text",
-            "text": "右边穿泼墨夹克的男生最后那句话，是在回应大家还是各说各的？"
+            "text": "Was the man in the paint-splatter jacket on the right responding to everyone with his last line, or were they all talking separately?"
           }
         ]
       },
@@ -500,7 +500,7 @@
         "content": [
           {
             "type": "text",
-            "text": "他是在回应。前面两个人都在夸那个女生，他最后说“She's really great...”，明显是加入讨论，表示赞同大家的看法。"
+            "text": "He was responding. The two people before him were praising the woman, and his final line, “She's really great...,” clearly joins in and agrees with them."
           }
         ]
       }
@@ -509,7 +509,7 @@
       "speakers": [
         {
           "id": "1",
-          "description": "位于画面中间位置，中年男性，短发带胡茬，穿白色印花T恤，肩搭蓝色毛巾，站在同伴之间，面带笑容",
+          "description": "Near the center, a middle-aged man with short hair and stubble, wearing a white graphic T-shirt with a blue towel draped over his shoulder. He stands among the others, smiling.",
           "segments": [
             {
               "start": 0.83,
@@ -530,7 +530,7 @@
         },
         {
           "id": "2",
-          "description": "位于画面右侧，年轻男性，深色头发，穿黑色泼墨夹克内搭白T恤，双手叉腰，表情轻松愉快",
+          "description": "On the right, a young man with dark hair, wearing a black paint-splatter jacket over a white T-shirt. He stands with his hands on his hips, looking relaxed and cheerful.",
           "segments": [
             {
               "start": 6.65,
@@ -561,7 +561,7 @@
           },
           {
             "type": "text",
-            "text": "说话的人是不是画面最左边穿红色旗袍的那位女生？"
+            "text": "Is the speaker the woman in the red qipao on the far left?"
           }
         ]
       },
@@ -570,7 +570,7 @@
         "content": [
           {
             "type": "text",
-            "text": "不是，说话的是画面右侧那位深色卷发的中年男性，穿旗袍的女生全程没有发声。"
+            "text": "No. The speaker is the short-haired woman in red on the right; the woman in the red qipao does not speak at all."
           }
         ]
       }
@@ -579,7 +579,7 @@
       "speakers": [
         {
           "id": "1",
-          "description": "位于画面右侧特写，深色卷发男性面部占据右半部分，中年男性，神情严肃凝重，眼神低垂，处于昏暗的室内环境，光线集中在面部左侧",
+          "description": "Near the center, a young woman with short dark hair, wearing red and looking excited.",
           "segments": [
             {
               "start": 0.73,
@@ -610,7 +610,7 @@
           },
           {
             "type": "text",
-            "text": "开头那句“我很高兴你在这儿”是谁说的呀？"
+            "text": "Who says “I'm so glad you're here” at the beginning?"
           }
         ]
       },
@@ -619,7 +619,7 @@
         "content": [
           {
             "type": "text",
-            "text": "是画面左侧那位戴白色遮阳帽、穿浅色条纹外套的年长女性说的。"
+            "text": "It's the older woman on the left, wearing a white sun hat and a light-colored striped jacket."
           }
         ]
       }
@@ -628,7 +628,7 @@
       "speakers": [
         {
           "id": "1",
-          "description": "位于画面左侧，面向右侧的男士，年长女性，神情略显担忧，戴白色遮阳帽，穿浅色条纹外套和蓝色内搭，双手交握在胸前，背景是岩石峭壁和零散坐着的人群",
+          "description": "On the left, an older woman facing the man on the right. She looks somewhat concerned and wears a white sun hat, a light-colored striped jacket, and a blue top. Her hands are clasped in front of her; rocky cliffs and scattered people are visible behind her.",
           "segments": [
             {
               "start": 0.68,
@@ -644,7 +644,7 @@
         },
         {
           "id": "2",
-          "description": "位于画面右侧，面向左侧的女士，中年男性，表情关切，穿米色衬衫，肩上搭着一件棕色外套，左手戴着手表，站在干燥的岩石地面上，身后是岩壁",
+          "description": "On the right, a middle-aged man facing the woman on the left. He looks concerned and wears a beige shirt with a brown jacket draped over his shoulder. He has a watch on his left wrist and stands on dry, rocky ground with a cliff behind him.",
           "segments": [
             {
               "start": 3.16,
@@ -670,7 +670,7 @@
         },
         {
           "id": "3",
-          "description": "画外音，外貌未知",
+          "description": "Off-screen voice; appearance unknown.",
           "segments": [
             {
               "start": 17.64,
@@ -701,7 +701,7 @@
           },
           {
             "type": "text",
-            "text": "穿红格子外套的女生具体说了句什么？"
+            "text": "What exactly does the woman in the red plaid jacket say?"
           }
         ]
       },
@@ -710,7 +710,7 @@
         "content": [
           {
             "type": "text",
-            "text": "她说的是：“There is such symmetry between us.”"
+            "text": "She says, “There is such symmetry between us.”"
           }
         ]
       }
@@ -719,7 +719,7 @@
       "speakers": [
         {
           "id": "1",
-          "description": "画外音，外貌未知",
+          "description": "Off-screen voice; appearance unknown.",
           "segments": [
             {
               "start": 0.0,
@@ -730,7 +730,7 @@
         },
         {
           "id": "2",
-          "description": "最初站在画面中央偏左的位置。，年轻女性，面容清秀，表情略带思索。，身穿红色格子外套，头戴饰有粉色羽毛的黑色帽子。，身处一间光线柔和的古典房间内，随后转身离开。",
+          "description": "Initially near the center-left, a young woman with delicate features and a thoughtful expression. She wears a red plaid jacket and a black hat decorated with a pink feather. The softly lit setting is a classical-style room; she later turns and walks away.",
           "segments": [
             {
               "start": 1.36,
